@@ -45,6 +45,21 @@ contributor:
   - dcite:Software
   - dcite:Visualization
   schemaKey: Person
+- email: shenyh8@mail2.sysu.edu.cn
+  name: Shen, Yuhui
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- email: huangmy36@mail2.sysu.edu.cn
+  name: Huang, Mengyao
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- email: shaomingtingJNU@163.com
+  name: Shao, Mingting
+  roleName:
+  - dcite:Author
+  schemaKey: Person
 dateCreated: '2026-02-10T02:02:10.507823+00:00'
 description: The dataset contains the intracellular recordings from Macaque Anterior
   Insular Cortex neurons.  We used Patch-seq to combine electrophysiology, morphology,
